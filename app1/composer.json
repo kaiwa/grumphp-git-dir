@@ -1,0 +1,13 @@
+{
+    "name": "root/app1",
+    "require-dev": {
+        "phpro/grumphp": "^0.11.6"
+    },
+    "authors": [
+        {
+            "name": "kaiwa",
+            "email": "github@kawa.in"
+        }
+    ],
+    "require": {}
+}
